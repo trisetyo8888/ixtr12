@@ -9,8 +9,8 @@ def main():
     # ========================================================
     # 1. ATUR KREDENSIAL PORTAL ANDA DI SINI
     # ========================================================
-    portal_url = "http://vod.supremetv.live/c/"  # Ganti dengan URL portal asli Anda
-    mac_address = "00:1A:79:00:44:B8"                  # Ganti dengan MAC address Anda
+    portal_url = "http://suiptv265.xyz/c/"  # Ganti dengan URL portal asli Anda
+    mac_address = "00:1A:79:7D:AF:4B"                  # Ganti dengan MAC address Anda
     
     portal_url = portal_url.rstrip('/')
     headers = {
